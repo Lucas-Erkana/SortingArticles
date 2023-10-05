@@ -52,3 +52,56 @@ npm install
 ```bash
 npm test
 ```
+## 👥 Authors <a name="authors"></a>
+
+👤 **Lucas Erkana**
+
+- GitHub: [@Lucask-Erkana](https://github.com/Lucask-Erkana)
+- Twitter: [@Lucas_David_22](https://twitter.com/@Lucas_David_22)
+- LinkedIn: [Lucas Erkana](https://www.linkedin.com/in/lucas-erkana/)
+- Frontend Mentor - [@Lucask-Erkana](https://www.frontendmentor.io/profile/Lucask-Erkana)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+<!-- Feel free to check the [issues page](https://github.com/Lucas-Erkana/Streamflix-Backend/issues). -->
+
+Feel free to check the [issues page](https://github.com/Lucas-Erkana/SlideshowApp/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project, please give a ⭐️
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank:
+
+[HackerRank](https://www.hackerrank.com/) for providing this exercise.
+
+<!-- - [Murat Korkmaz](https://www.behance.net/muratk) for a beautiful, efficient, and accessible user interface [Design](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign). -->
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
